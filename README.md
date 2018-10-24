@@ -13,17 +13,17 @@ OUTPUT: The program prints the original inventory. All Outputs appear on seperat
 After every sort, i.e. Exchange sort on Quantity on Hand, Shell Sort on Selling
 price, Quick Sort on Inventory Number, the program prints the Inventory along with the
 headers.
+              
               Rishika Swarnkar        CSC 36000     Section 11
                    Spring 2018    Assignment #5
 ---------------------------------------------------------------------------- 
-
 The Original Inventory Array:
+
 Inventory Item                     Quantity  Reorder   Cost of   Selling   
 Number    Description              on hand   Number    Item      Price     
 -------   --------------------     -------   -------   -------   -------   
 1001      Data Structures in C     15        25        80.52     138.75    
 4202      Operating Systems        2         25        77.75     101.35  
-
 
 USER DEFINED MODULES : 
 
