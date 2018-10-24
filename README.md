@@ -5,7 +5,7 @@ PROCESS:This program is desgined to read Data from an input file.
 The input file has the inventory number, Item discription,Quantity on hand, Recorder Number, Cost of Item and Selling Price.
 The program uses an array of structures,Inventory[],store structure called "item". Item stored all the information related to
 "Item" of Inventory.It perform various sorts ascendong/decending based on one of the attributes of "item" 
-The inventory array is sorted in decending irder according to the Quantity on Hand using Exachange Sort.
+The inventory array is sorted in decending order according to the Quantity on Hand using Exachange Sort.
 The inventory Array sorted in decending order according to the Selling Price using Shell Sort. 
 The inventory Array sorted in ascending order according to the Inventory Number using Quick Sort
 
