@@ -13,8 +13,6 @@ OUTPUT: The program prints the original inventory. All Outputs appear on seperat
 After every sort, i.e. Exchange sort on Quantity on Hand, Shell Sort on Selling
 price, Quick Sort on Inventory Number, the program prints the Inventory along with the
 headers.
-
-
               Rishika Swarnkar        CSC 36000     Section 11
                    Spring 2018    Assignment #5
 ---------------------------------------------------------------------------- 
