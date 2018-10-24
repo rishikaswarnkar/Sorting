@@ -1,5 +1,6 @@
 # Sorting
 https://github.com/rishikaswarnkar/SortingInventory
+
 PROCESS:This program is desgined to read Data from an input file.
 The input file has the inventory number, Item discription,Quantity on hand, Recorder Number, Cost of Item and Selling Price.
 The program uses an array of structures,Inventory[],store structure called "item". Item stored all the information related to
@@ -12,6 +13,8 @@ OUTPUT: The program prints the original inventory. All Outputs appear on seperat
 After every sort, i.e. Exchange sort on Quantity on Hand, Shell Sort on Selling
 price, Quick Sort on Inventory Number, the program prints the Inventory along with the
 headers.
+
+
               Rishika Swarnkar        CSC 36000     Section 11
                    Spring 2018    Assignment #5
 ---------------------------------------------------------------------------- 
